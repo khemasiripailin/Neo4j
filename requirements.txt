@@ -1,0 +1,7 @@
+streamlit>=1.32
+pandas>=2.0
+neo4j>=5.20
+pyvis>=0.3.2
+networkx>=3.2
+plotly>=5.18
+graphdatascience>=1.10

@@ -1,0 +1,85 @@
+id,person_a,person_b,relation
+17,Yingphan,Yutthanasiri,knows
+18,Yingphan,Natdanai,knows
+24,Sumonsiri,Kritsada,knows
+25,Sumonsiri,Noppawat,knows
+26,Sumonsiri,Supitcha Kaewplengsrisakul,knows
+27,Sumonsiri,Siriwat,knows
+28,Sumonsiri,sahaphum,knows
+29,Krich,Napob,knows
+30,Krich,Suphawan,knows
+33,Napob,Krich,knows
+34,Napob,Suphawan,knows
+35,Poonyanood,Phetcharee,knows
+36,Poonyanood,Somruedee,knows
+79,Phetcharee,Krittanut,knows
+80,Phetcharee,Pimkanit,knows
+81,Phetcharee,Poonyanood,knows
+82,Phetcharee,Somruedee,knows
+108,Noppawat,Yutthanasiri,knows
+109,Noppawat,Yingphan,knows
+110,Noppawat,Supitcha Kaewplengsrisakul,knows
+111,Noppawat,Sumonsiri,knows
+112,Noppawat,Siriwat,knows
+113,Noppawat,sahaphum,knows
+114,Noppawat,Piriya,knows
+115,Noppawat,Natdanai,knows
+116,Noppawat,Kritsada,knows
+124,Piriya,Siriwat,knows
+125,Piriya,Yingphan,knows
+126,Piriya,Yutthanasiri,knows
+127,Piriya,Natdanai,knows
+128,Piriya,Noppawat,knows
+130,Kritsada,Sumonsiri,knows
+163,Krittanut,Phetcharee,knows
+164,Krittanut,Poonyanood,knows
+165,Krittanut,Somruedee,knows
+166,Krittanut,Supitcha Kaewplengsrisakul,knows
+167,Krittanut,Pimkanit,knows
+168,Natdanai,Yutthanasiri,knows
+169,Yutthanasiri,Noppawat,knows
+170,Yutthanasiri,Natdanai,knows
+171,Yutthanasiri,Siriwat,knows
+172,Yutthanasiri,Sumonsiri,knows
+173,Yutthanasiri,Tanin,knows
+180,Supitcha Kaewplengsrisakul,Kritsada,knows
+181,Supitcha Kaewplengsrisakul,Noppawat,knows
+182,Supitcha Kaewplengsrisakul,sahaphum,knows
+183,Supitcha Kaewplengsrisakul,Sumonsiri,knows
+184,Supitcha Kaewplengsrisakul,Somruedee,knows
+185,Supitcha Kaewplengsrisakul,Yutthanasiri,knows
+186,Suphawan,Krich,knows
+187,Suphawan,Napob,knows
+188,Suphawan,Freddie,knows
+189,Suphawan,Wuttichai,knows
+190,Suphawan,Khemasiri,knows
+191,Tanin,Natdanai,knows
+192,Tanin,Noppawat,knows
+193,Tanin,sahaphum,knows
+194,Tanin,Siriwat,knows
+195,Tanin,Yingphan,knows
+196,Tanin,Yutthanasiri,knows
+197,Khemasiri,Freddie,knows
+198,Khemasiri,Wuttichai,knows
+199,Khemasiri,Suphawan,knows
+200,Khemasiri,Tirawat,knows
+225,Freddie,Khemasiri,knows
+226,Freddie,Tirawat,knows
+227,Freddie,Wuttichai,knows
+228,Siriwat,Kritsada,knows
+229,Siriwat,Natdanai,knows
+230,Siriwat,Noppawat,knows
+231,Siriwat,Piriya,knows
+232,Siriwat,sahaphum,knows
+233,Siriwat,Sumonsiri,knows
+234,Siriwat,Supitcha Kaewplengsrisakul,knows
+235,Siriwat,Tanin,knows
+236,Siriwat,Yingphan,knows
+237,Pimkanit,Kritsada,knows
+238,Pimkanit,Krittanut,knows
+239,Pimkanit,Phetcharee,knows
+240,Pimkanit,Poonyanood,knows
+241,Pimkanit,Somruedee,knows
+248,Worawat,Wuttichai,knows
+249,Worawat,Khemasiri,knows
+250,Worawat,Tirawat,knows
